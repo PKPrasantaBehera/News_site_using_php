@@ -36,11 +36,17 @@ OR follow gitbash commands
 
 # Some Preview
 <div align="center">
+  <h3>Home Page</h3>
   <img width="70%" src="https://github.com/PKPrasantaBehera/News_site_using_php/blob/main/images/project-4.png" alt="preview"><br><br>
+  <h3>Admin Login Page</h3>
   <img width="70%" src="https://github.com/PKPrasantaBehera/News_site_using_php/blob/main/images/news-site%20admin%20login.png" alt="preview"><br><br>
+  <h3>All Post </h3>
   <img width="70%" src="https://github.com/PKPrasantaBehera/News_site_using_php/blob/main/images/news-site%20all%20post.png" alt="preview"><br><br>
+    <h3>Add Post </h3>
   <img width="70%" src="https://github.com/PKPrasantaBehera/News_site_using_php/blob/main/images/news-site%20add%20post.png" alt="preview"><br><br>
+     <h3>Modify User </h3>
   <img width="70%" src="https://github.com/PKPrasantaBehera/News_site_using_php/blob/main/images/news-site%20modify%20user.png" alt="preview"><br><br>
+     <h3>All Category </h3>
   <br>
   <img width="70%" src="https://github.com/PKPrasantaBehera/News_site_using_php/blob/main/images/news-site%20all%20category.png" alt="preview"><br><br>
 </div>
