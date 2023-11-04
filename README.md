@@ -36,10 +36,15 @@ OR follow gitbash commands
 
 # Some Preview
 <div align="center">
-  <img width="70%" src="https://github.com/PKPrasantaBehera/News_site_using_php/blob/main/images/news.jpg" alt="preview"><br><br>
-  <img width="70%" src="https://github.com/PKPrasantaBehera/News_site_using_php/blob/main/images/post_1.jpg" alt="preview"><br><br>
-  <img width="70%" src="https://github.com/harshitbansal373/PHP-CMS/blob/master/images/Screenshot%20from%202019-07-08%2016-58-19.png" alt="preview"><br><br>
-  <img width="70%" src="https://github.com/harshitbansal373/PHP-CMS/blob/master/images/Screenshot%20from%202019-07-08%2016-58-27.png" alt="preview"><br><br>
-  <img width="70%" src="https://github.com/harshitbansal373/PHP-CMS/blob/master/images/Screenshot%20from%202019-07-08%2016-58-59.png" alt="preview"><br><br>
+  <img width="70%" src="https://github.com/PKPrasantaBehera/News_site_using_php/blob/main/images/project-4.png" alt="preview"><br><br>
+  <img width="70%" src="https://github.com/PKPrasantaBehera/News_site_using_php/blob/main/images/news-site%20admin%20login.png" alt="preview"><br><br>
+  <img width="70%" src="https://github.com/PKPrasantaBehera/News_site_using_php/blob/main/images/news-site%20all%20post.png" alt="preview"><br><br>
+  <img width="70%" src="https://github.com/PKPrasantaBehera/News_site_using_php/blob/main/images/news-site%20add%20post.png" alt="preview"><br><br>
+  <img width="70%" src="https://github.com/PKPrasantaBehera/News_site_using_php/blob/main/images/news-site%20modify%20user.png" alt="preview"><br><br>
+  <br>
+  <img width="70%" src="https://github.com/PKPrasantaBehera/News_site_using_php/blob/main/images/news-site%20all%20category.png" alt="preview"><br><br>
 </div>
+
+
+
 
