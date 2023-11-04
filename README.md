@@ -1,4 +1,4 @@
-# Dynamic News-Site Using PHP,MySql and Bootstrap
+# Dynamic News-Site Using PHP, MySql and Bootstrap
 This Project is based on content management system build using PHP and MySql. This projects includes admin dashborad and secured login system or signup system with admin and local user supporter. It also contain dashboard with different analytics which helps to analyse data.All the data which shown on frontend is comming from database dynamically.Admin Can update delete posts and manage users.
 
 # Installation
